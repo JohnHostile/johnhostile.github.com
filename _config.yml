@@ -1,5 +1,5 @@
 pygments: true
-permalink: /blog/:title
+permalink: /:year-:month-:day/:title
 mainauthor: John
 mainauthorlink: https://plus.google.com/104570711580136846518/posts
 paginate: 5
