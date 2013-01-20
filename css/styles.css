@@ -162,6 +162,7 @@ blockquote{
 
 #disqus_thread{
 	margin-top: 50px;
+	border-top: 1px dashed rgb(200,200,200);
 }
 
 img.centered{
