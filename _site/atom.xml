@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+	<title>Words and Coffee</title>
+	<link href="http://johnhostile.github.com/atom.xml" rel="self"/>
+	<link href="http://johnhostile.github.com/"/>
+	<updated>2013-01-20T02:17:24-05:00</updated>
+	<id>http://johnhostile.github.com/</id>
+
+	
+		<entry>
+			<title>Steal This Design</title>
+			<link href="http://johnhostile.github.com/blog/steal-this-design"/>
+			<updated>2013-01-16T00:00:00-05:00</updated>
+			<id>http://johnhostile.github.com/blog/steal-this-design</id>
+			
+		</entry>
+	
+		<entry>
+			<title>Steal This Design</title>
+			<link href="http://johnhostile.github.com/blog/steal-this-design"/>
+			<updated>2013-01-15T00:00:00-05:00</updated>
+			<id>http://johnhostile.github.com/blog/steal-this-design</id>
+			
+		</entry>
+	
+		<entry>
+			<title>Steal This Design</title>
+			<link href="http://johnhostile.github.com/blog/steal-this-design"/>
+			<updated>2013-01-14T00:00:00-05:00</updated>
+			<id>http://johnhostile.github.com/blog/steal-this-design</id>
+			
+		</entry>
+	
+		<entry>
+			<title>Steal This Design</title>
+			<link href="http://johnhostile.github.com/blog/steal-this-design"/>
+			<updated>2013-01-13T00:00:00-05:00</updated>
+			<id>http://johnhostile.github.com/blog/steal-this-design</id>
+			
+		</entry>
+	
+		<entry>
+			<title>Steal This Design</title>
+			<link href="http://johnhostile.github.com/blog/steal-this-design"/>
+			<updated>2013-01-10T00:00:00-05:00</updated>
+			<id>http://johnhostile.github.com/blog/steal-this-design</id>
+			
+		</entry>
+	
+		<entry>
+			<title>Steal This Design</title>
+			<link href="http://johnhostile.github.com/blog/steal-this-design"/>
+			<updated>2013-01-04T00:00:00-05:00</updated>
+			<id>http://johnhostile.github.com/blog/steal-this-design</id>
+			
+		</entry>
+	
+ 
+</feed>

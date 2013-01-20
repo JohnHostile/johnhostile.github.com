@@ -1,0 +1,12 @@
+---
+layout: default
+---
+
+<section class="content">
+	<br><br>
+	<div style="padding-left:50px">
+		{% for post in site.posts %}
+			<strong><a href="{{ post.url }}">{{ post.title }}</a></strong>&nbsp;&nbsp;&nbsp;&nbsp;<span class="authoring">{{post.date | date: "%B %e, %Y" }}</span><br><br>
+		{% endfor %}
+	</div>
+</section>

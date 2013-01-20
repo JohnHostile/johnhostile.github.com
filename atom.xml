@@ -1,0 +1,22 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+	<title>Words and Coffee</title>
+	<link href="http://johnhostile.github.com/atom.xml" rel="self"/>
+	<link href="http://johnhostile.github.com/"/>
+	<updated>{{ site.time | date_to_xmlschema }}</updated>
+	<id>http://johnhostile.github.com/</id>
+
+	{% for post in site.posts %}
+		<entry>
+			<title>{{ post.title }}</title>
+			<link href="http://johnhostile.github.com{{ post.url }}"/>
+			<updated>{{ post.date | date_to_xmlschema }}</updated>
+			<id>http://johnhostile.github.com{{ post.id }}</id>
+		</entry>
+	{% endfor %}
+ 
+</feed>

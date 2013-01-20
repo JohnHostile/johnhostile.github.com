@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset=utf-8 />
+  <title> {% if page.title %} {{ page.title }} | {% endif %} Words and Coffee</title>
+  <link rel="stylesheet" href="/css/styles.css" />
+  <link rel="stylesheet" href="/css/pygments.css" />
+  <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+</head>
+<body>
+  <div id="main">
+	<div id="banner">
+		<a href="/"><img class = "centered" src="/img/wordsandcoffeetext.png" width="600" height="150"/></a>
+	</div>
+    <nav role="navigation">
+		<a href="/"><img class="centered" src="/img/sidecoffee.png"></a>
+		<a href="/">Home</a><br>
+		<a href="/about.html">About</a><br>
+		<a href="/archive.html">Archive</a><br>
+		<a href="https://plus.google.com/104570711580136846518/posts" target="_blank">Google+</a><br>
+		<a href="/atom.xml">Subscribe</a>
+    </nav>
+    {{ content }}
+    <footer>
+      <p>&copy; 2013 | All Rights Reserved. </p>
+    </footer>
+  </div>
+</body>
+</html>
