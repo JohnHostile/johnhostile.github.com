@@ -17,9 +17,9 @@ layout: default
 			{{ post.content }}
 			<div class="postauthoring">
 				{% if post.author and post.authorlink %}
-					Guest writer <a href="{{ post.authorlink }}" target="_blank">{{post.author}}</a> wrote this on {{post.date | date: "%B %e, %Y" }} / <a href="{{ post.url }}">Comments</a>
+					Guest writer <a href="{{ post.authorlink }}" target="_blank">{{post.author}}</a> wrote this on {{post.date | date: "%B %e, %Y" }} / <a href="{{ post.url }}#comments">Comments</a>
 				{% else %}
-					<a href="{{site.mainauthorlink}}"  target="_blank">{{site.mainauthor}}</a> wrote this on {{post.date | date: "%B %e, %Y" }} / <a href="{{ post.url }}">Comments</a>
+					<a href="{{site.mainauthorlink}}"  target="_blank">{{site.mainauthor}}</a> wrote this on {{post.date | date: "%B %e, %Y" }} / <a href="{{ post.url }}#comments">Comments</a>
 				{% endif %}
 			</div>
 		</div>
