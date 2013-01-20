@@ -160,6 +160,10 @@ blockquote{
 	margin-top:40px;
 }
 
+#disqus_thread{
+	margin-top: 50px;
+}
+
 img.centered{
 	display: block;
 	margin:0px auto;
