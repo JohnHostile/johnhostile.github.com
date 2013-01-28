@@ -75,6 +75,7 @@ h1,h2,h3,h4{
 	font-family:  kepler-std, Georgia, Times, serif;/**/
 	font-weight: 600;/**/
 	font-style: normal;
+	line-height:1em;
 	/*text-transform: uppercase;/**/
 	color: rgb(30,30,30);
 }

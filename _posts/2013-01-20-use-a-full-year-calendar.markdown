@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Use a Full Year Calendar
+title: Use a Full Year Calendar (Here, print out mine)
 ---
 Last year I started doing [the Seinfeld productivity method](http://lifehacker.com/281626/jerry-seinfelds-productivity-secret). It works best with a calendar that has the whole year in view at once. I didn't have anything like that, so my girlfriend and I [made one out of a regular calendar](https://lh3.googleusercontent.com/-hf8BwjgZKUo/Tw0SBBKs7mI/AAAAAAAABuI/gL86IOBBUzc/s760/IMG_20120110_233533.jpg). We liked the idea of the calendar being continuous, so we didn't separate the months. Just look at [the picture](https://lh3.googleusercontent.com/-hf8BwjgZKUo/Tw0SBBKs7mI/AAAAAAAABuI/gL86IOBBUzc/s760/IMG_20120110_233533.jpg) and you'll see what I mean.
 
