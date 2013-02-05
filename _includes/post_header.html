@@ -3,8 +3,8 @@
 </h1>
 <div class="authoring">
 	{% if page.author and page.authorlink %}
-		Guest writer <a href="{{ page.authorlink }}" target="_blank">{{page.author}}</a> wrote this on {{page.date | date: "%B %e, %Y" }}
+		Guest writer <a href="{{ page.authorlink }}?rel=author" target="_blank">{{page.author}}</a> wrote this on {{page.date | date: "%B %e, %Y" }}
 	{% else %}
-		<a href="{{site.mainauthorlink}}" target="_blank">{{site.mainauthor}}</a> wrote this on {{page.date | date: "%B %e, %Y" }}
+		<a href="{{site.mainauthorlink}}?rel=author" target="_blank">{{site.mainauthor}}</a> wrote this on {{page.date | date: "%B %e, %Y" }}
 	{% endif %}
 </div>
