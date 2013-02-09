@@ -33,7 +33,7 @@ After a number of tests, I came up with a method I like. I present to you the ea
  6. When time is up, kill the heat and either fill the pot up with cold water, or transfer the eggs to cold water. I usually just fill with cold water, dump it out, and refill a few times (with a few seconds of hand stirring in between). If you don't do this, you may end up with overcooked yolks with that green/brown color around them.
 
  7. Eat now, or store them in the fridge and eat them within 5 days (I use an egg carton to store them). If you don't like them cold, they warm up in the microwave very quickly. 15-30 seconds on high should be plenty to get them to room temperature or hotter.
- <br>**Update**: Microwaves vary in power. Be conservative if you aren't sure if your microwave will blow up your eggs. Definitely try out 15 seconds first, and consider microwaving in intervals if you need more than that.
+ <br>**Update**: Microwaves vary in power. Be conservative if you aren't sure if your particular microwave will blow up your particular eggs. Definitely try out 10 or 15 seconds first, and consider microwaving in intervals if you need more than that.
 
 In addition to all the benefits already described above, steamed eggs are significantly easier to peel than the boiled kind, in my experience. Once you break open the membrane under the shell, it should all come off without much fuss.
 
