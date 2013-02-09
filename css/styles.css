@@ -101,6 +101,10 @@ h4 {
 	margin: 1.25em 0 1.25em 0;
 }
 
+ol li{
+	margin-bottom:.8em;
+}
+
 footer {
 	font-size: 0.8em;/**/
 	font-style:italic;
