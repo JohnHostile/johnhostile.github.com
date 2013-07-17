@@ -8,8 +8,8 @@ So I did.
 
 I called it "Web Image Share" because I'm an extremely gifted app namer. I know it's only a small thing that helps share images from the web, but I've decided to release it here for anyone lovely enough to come and read these words. You're a beautiful person, and you deserve it.
 <br /><br />
-<a href="/files/ImageShare.apk"><img src="/img/webimageshareicon.png" class="centered" title="Web Image Share"/></a>
-**This is the [link to the Web Image Share APK](/files/ImageShare.apk).**
+<a href="http://goo.gl/MVJoW"><img src="/img/webimageshareicon.png" class="centered" title="Web Image Share"/></a>
+**This is the [link to the Web Image Share APK](http://goo.gl/MVJoW).**
 
 The app is almost entirely intent-based, but it's ok if you don't know what that means. Share a URL of some kind to it (generally this will happen when sharing from a browser like Chrome, but apps like the Tumblr app and Imgur app also share out URLs, if I remember correctly). From there, you should be able to figure things out. It's really pretty simple. I actually think it's easier to share images on Android now than it is on any other OS. Intents are just that good.
 
