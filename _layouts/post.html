@@ -9,12 +9,15 @@ layout: default
 	</div>
 	<br />
 	<a name="comments">
-	<script src="https://apis.google.com/js/plusone.js">
-</script>
+	<!--<script src="https://apis.google.com/js/plusone.js">
+</script>-->
+{% if page.comments %}
+{% else %}
 <g:comments
     href="http://johnhostile.github.io{{ page.url }}"
     width="642"
     first_party_property="BLOGGER"
     view_type="FILTERED_POSTMOD">
 </g:comments>
+{% endif %}
 </div>
