@@ -7,6 +7,7 @@ Last year I started doing [the Seinfeld productivity method](http://lifehacker.c
 Now it's 2013, and I had no calendar to slice up. We looked at it as an opportunity to make something better than last year. My girlfriend does architecture, and is therefore very familiar with CAD work. I asked her to see if she could put a 2013 full-year calendar together using AutoCAD. We designed it together, and with a few tweaks, we ended up with this:
 <br><br>
 <a href="https://lh5.googleusercontent.com/-AVNfAyZDv4A/UO4yIl-fLBI/AAAAAAAAJyo/gEzszJQ_qis/s694/photo.jpg"><img src="/img/2013calendar.jpg" class="centered"></a>
+<br>
 The calendar you see there (which is the one I'm using) is made up of four 11x17 sheets, because we have access to a printer capable of that size. We figured that was plenty big enough for our needs (44x17), and much less expensive than having something printed up poster-sized by a professional printing service.
 
 This time, instead of two long columns, we decided to break the year up into quarters horizontally. As a result, I can reach every part of the calendar from my desk, which I like a lot. I also feel that this format offers even greater perspective over the passage of time than the two column format did.
