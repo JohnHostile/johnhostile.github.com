@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Full Year Calendar For 2014
+title: Use My Full Year Calendar For 2014
 ---
 <img src="/img/endof2013calendar.jpg" class="centered">
 <br>
